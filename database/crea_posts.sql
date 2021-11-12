@@ -1,0 +1,7 @@
+DROP TABLE IF EXISTS posts;
+
+CREATE TABLE posts (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    titolo TEXT,
+    info TEXT
+);
