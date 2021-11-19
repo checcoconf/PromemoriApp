@@ -5,7 +5,6 @@ app = Flask(__name__)
 
 @app.route("/")
 
-
 def index():
     connesione = sqlite3.connect('database.db')
     connesione.row_factory = sqlite3.Row
