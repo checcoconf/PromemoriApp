@@ -5,7 +5,7 @@ Quest'app permette di creare un'app che crea dei promemoria!
 - Per quanto riguarda la base di dati ho predisposto un database che memorizzerà un titolo e una descrizione del promemoria.
 
 
-- Liberie Python utilizzate: Flask e sqlite3 per lanciare la pagina web e la gestione del databese.
+- Liberie Python utilizzate: Flask per lanciare la pagina web e sqlite3 per la gestione del databese.
 - Framework Bootstrap per quanto riguarda il frontend.
 
 
